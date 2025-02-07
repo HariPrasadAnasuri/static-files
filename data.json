@@ -1,0 +1,153 @@
+{
+  "kidsImages": {
+    "files": [
+
+    ],
+    "nature": {
+      "files": [
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/kidsImages/nature/My+Project+(17).png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/kidsImages/nature/artspace-ai-1738860645418-009.png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/kidsImages/nature/artspace-ai-1738860645418-008.png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/kidsImages/nature/My+Project+(18).png"
+      ]
+    },
+    "animals": {
+      "files": [
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/kidsImages/animals/My+Project+(16).png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/kidsImages/animals/artspace-ai-1738860645418-005.png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/kidsImages/animals/artspace-ai-1738860645418-006.png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/kidsImages/animals/artspace-ai-1738860645418-007.png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/kidsImages/animals/My+Project+(13).png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/kidsImages/animals/My+Project+(14).png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/kidsImages/animals/My+Project+(15).png"
+      ]
+    },
+    "space": {
+      "files": [
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/kidsImages/space/My+Project+(20).png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/kidsImages/space/artspace-ai-1738860645418-011.png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/kidsImages/space/artspace-ai-1738860645418-010.png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/kidsImages/space/My+Project+(19).png"
+      ]
+    }
+  },
+  "placesImages": {
+    "files": [
+
+    ],
+    "beaches": {
+      "files": [
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/placesImages/beaches/My+Project+(13).png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/placesImages/beaches/My+Project+(14).png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/placesImages/beaches/artspace-ai-1738864793293-001.png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/placesImages/beaches/artspace-ai-1738864793293-000.png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/placesImages/beaches/My+Project+(15).png"
+      ]
+    },
+    "cities": {
+      "files": [
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/placesImages/cities/My+Project+(18).png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/placesImages/cities/artspace-ai-1738864793293-004.png"
+      ]
+    },
+    "mountains": {
+      "files": [
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/placesImages/mountains/My+Project+(16).png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/placesImages/mountains/My+Project+(17).png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/placesImages/mountains/artspace-ai-1738864793293-002.png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/placesImages/mountains/artspace-ai-1738864793293-003.png"
+      ]
+    }
+  },
+  "animalsImages": {
+    "files": [
+
+    ],
+    "pets": {
+      "files": [
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/animalsImages/pets/My+Project+(16).png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/animalsImages/pets/My+Project+(17).png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/animalsImages/pets/artspace-ai-1738862940992-003.png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/animalsImages/pets/artspace-ai-1738862940992-002.png"
+      ]
+    },
+    "wildLife": {
+      "files": [
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/animalsImages/wildLife/My+Project+(13).png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/animalsImages/wildLife/My+Project+(14).png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/animalsImages/wildLife/artspace-ai-1738862940992-000.png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/animalsImages/wildLife/artspace-ai-1738862940992-001.png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/animalsImages/wildLife/My+Project+(15).png"
+      ]
+    },
+    "underwater": {
+      "files": [
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/animalsImages/underwater/My+Project+(18).png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/animalsImages/underwater/artspace-ai-1738862940992-005.png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/animalsImages/underwater/artspace-ai-1738862940992-004.png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/animalsImages/underwater/My+Project+(19).png"
+      ]
+    }
+  },
+  "womenImages": {
+    "files": [
+
+    ],
+    "beachwear": {
+      "files": [
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/womenImages/beachwear/My+Project+(17).png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/womenImages/beachwear/artspace-ai-1738862278515-008.png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/womenImages/beachwear/artspace-ai-1738862278515-007.png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/womenImages/beachwear/My+Project+(18).png"
+      ]
+    },
+    "traditional": {
+      "files": [
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/womenImages/traditional/artspace-ai-1738862278515-004.png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/womenImages/traditional/artspace-ai-1738862278515-003.png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/womenImages/traditional/My+Project+(13).png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/womenImages/traditional/artspace-ai-1738862278515-002.png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/womenImages/traditional/artspace-ai-1738862278515-000.png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/womenImages/traditional/artspace-ai-1738862278515-001.png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/womenImages/traditional/My+Project+(14).png"
+      ]
+    },
+    "modern": {
+      "files": [
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/womenImages/modern/My+Project+(16).png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/womenImages/modern/artspace-ai-1738862278515-005.png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/womenImages/modern/artspace-ai-1738862278515-006.png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/womenImages/modern/My+Project+(15).png"
+      ]
+    }
+  },
+  "foodImages": {
+    "files": [
+
+    ],
+    "drinks": {
+      "files": [
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/foodImages/drinks/My+Project+(17).png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/foodImages/drinks/artspace-ai-1738864248013-005.png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/foodImages/drinks/artspace-ai-1738864248013-004.png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/foodImages/drinks/My+Project+(18).png"
+      ]
+    },
+    "desserts": {
+      "files": [
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/foodImages/desserts/artspace-ai-1738864248013-000.png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/foodImages/desserts/artspace-ai-1738864248013-001.png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/foodImages/desserts/My+Project+(13).png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/foodImages/desserts/My+Project+(14).png"
+      ]
+    },
+    "fruits": {
+      "files": [
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/foodImages/fruits/My+Project+(16).png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/foodImages/fruits/artspace-ai-1738864248013-003.png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/foodImages/fruits/artspace-ai-1738864248013-002.png",
+        "https://bvirtuoso.s3.us-east-1.amazonaws.com/generatedImages/foodImages/fruits/My+Project+(15).png"
+      ]
+    }
+  }
+}
